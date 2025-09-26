@@ -41,6 +41,17 @@ Cloud & Networking: AWS | Azure | TCP/IP | VPNs | Firewalls | Network Protocols
 🏫 Viswasanthi High School,Repalle - 10th(BSEAP):87.4%
 
 
-🔗 Links                                                                                           
+🔗 Links 
+#
 💼 https://www.linkedin.com/in/shanmukha-morla-199985371                                             
 🐙 
+
+🧩 Hobbies                                                                                             
+#
+ Cybersecurity Research |🤖 AI in Security | 🧳Travelling | 🎶Music                                    
+ #
+📫 Contact                                                                                              
+#
+📧 Email:shanmukhamorla@gmail.com                                                                          
+📧College:y21acb417@becbapatla.ac.in                                                                        
+📱 Phone: +91 7981001385
