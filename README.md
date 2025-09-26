@@ -19,3 +19,9 @@
 🌐 Scanning, reporting, and penetration testing practice                                   
 💻 MalwareAnalyzer — Malicious Code Analysis Framework
 ⚡ Automating malware detection and analysis workflows
+
+💻 Tech Stack & Tools
+Security & Hacking: Metasploit | Nmap | Wireshark | Burp Suite                         
+Programming & Scripting: Python | Bash | JavaScript | C | PowerShell                      
+Web & Backend: Node.js | Express.js | FastAPI | MongoDB | SQLite                        
+Cloud & Networking: AWS | Azure | TCP/IP | VPNs | Firewalls | Network Protocols         
