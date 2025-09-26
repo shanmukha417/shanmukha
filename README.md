@@ -26,6 +26,9 @@
 
 💻 Tech Stack & Tools                                                                                                                                                         
 #
+
+<img width="565" height="136" alt="image" src="https://github.com/user-attachments/assets/501fdf48-4c04-4f6e-8a3f-2b569e3030c8" />
+
 Security & Hacking: Metasploit | Nmap | Wireshark | Burp Suite                         
 Programming & Scripting: Python | Bash | JavaScript | C | PowerShell                      
 Web & Backend: Node.js | Express.js | FastAPI | MongoDB | SQLite                        
