@@ -20,7 +20,8 @@
 💻 MalwareAnalyzer — Malicious Code Analysis Framework
 ⚡ Automating malware detection and analysis workflows
 
-💻 Tech Stack & Tools
+💻 Tech Stack & Tools                                                                                                                                                         
+#
 Security & Hacking: Metasploit | Nmap | Wireshark | Burp Suite                         
 Programming & Scripting: Python | Bash | JavaScript | C | PowerShell                      
 Web & Backend: Node.js | Express.js | FastAPI | MongoDB | SQLite                        
