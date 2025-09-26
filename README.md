@@ -34,9 +34,10 @@ Programming & Scripting: Python | Bash | JavaScript | C | PowerShell
 Web & Backend: Node.js | Express.js | FastAPI | MongoDB | SQLite                        
 Cloud & Networking: AWS | Azure | TCP/IP | VPNs | Firewalls | Network Protocols        
 #
-🎓 Education
-🎓 Bapatla Engineering College, Bapatla — B.Tech Cyber Security (2021–2025) — CGPA: 6.87/10 
-📘 Narayana Jr College, Repalle — 12th (BIEAP): 74.6%                                 
+🎓 Education                   
+#      
+🎓 Bapatla Engineering College, Bapatla — B.Tech Cyber Security (2021–2025) — CGPA: 6.87/10                                                                                                                    
+📘 Narayana Jr College, Repalle — 12th (BIEAP): 74.6%                                                                                                                                                   
 🏫 Viswasanthi High School,Repalle - 10th(BSEAP):87.4%
 
 
