@@ -41,3 +41,6 @@ Cloud & Networking: AWS | Azure | TCP/IP | VPNs | Firewalls | Network Protocols
 🏫 Viswasanthi High School,Repalle - 10th(BSEAP):87.4%
 
 
+🔗 Links                                                                                           
+💼 https://www.linkedin.com/in/shanmukha-morla-199985371                                             
+🐙 
