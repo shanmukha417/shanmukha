@@ -12,7 +12,7 @@
 🌍 Currently Working On
 
 🛡️ ThreatHunter — Real-time Threat Detection System
-🚀 SIEM + Python + ELK Stack explorations                                          
+🚀 SIEM + Python + ELK Stack explorations                                                        
 🔒 SecureVault — Password & Secrets Management Tool
 🧰 Encryption, hashing, and secure storage experiments                                    
 🕵️‍♂️ NetScan — Network Vulnerability Scanner
