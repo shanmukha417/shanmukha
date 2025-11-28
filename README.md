@@ -39,17 +39,37 @@ Cloud & Networking: AWS | Azure | TCP/IP | VPNs | Firewalls | Network Protocols
 🎓 Bapatla Engineering College, Bapatla — B.Tech Cyber Security (2021–2025) — CGPA: 6.87/10                                                                                                                    
 📘 Narayana Jr College, Repalle — 12th (BIEAP): 74.6%                                                                                                                                                   
 🏫 Viswasanthi High School,Repalle - 10th(BSEAP):87.4%
-
-
+#
 🔗 Links 
 #
 💼 https://www.linkedin.com/in/shanmukha-morla-199985371                                             
 🐙 https://github.com/shanmukha417/shanmukha/blob/main/README.md
 #
 🧩 Hobbies                                                                                             
-
  Cybersecurity Research |🤖 AI in Security | 🧳Travelling | 🎶Music                                    
  #
+ #
+ <img width="40" height="34" alt="image" src="https://github.com/user-attachments/assets/2432a4b0-5444-4805-bdb2-c2295388ac91" />
+Certifications
+🛡️ Microsoft Certified: Security Operations Analyst (SC-200)
+🛡️ Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+🎖️ Microsoft Certified: Cybersecurity Architect (SC-100)
+☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+🕵️ Certified Ethical Hacker (CEH) – SynthoQuest Private Limited
+🛡️ Microsoft SC-200 Advanced Modules: Sentinel, Defender, XDR, Threat Mitigation
+🛡️ Microsoft Entra: Security, Compliance & Identity Fundamentals
+🤖 Microsoft Security Copilot (AI-Powered Security)
+☁️ AWS Cloud Security Fundamentals
+🔐 IBM Cybersecurity Fundamentals Certificate
+🛡️ Microsoft SC-900: Security, Compliance & Identity Concepts
+🛡️ Certified Network Security Practitioner (CNSP) – The SecOps Group
+🎓 Certified Cybersecurity Educator Professional (CCEP)
+🔍 Digital Forensics Certificate
+🧪 Practical Training: Digital Forensics & Cybercrime Investigation (5-Day Workshop)
+🎓 Deloitte Cybersecurity Virtual Experience – Forage
+🛡️ Microsoft Azure: Secure Azure using Microsoft Defender (SC-200/AZ-500 aligned)
+📚 Additional Microsoft Modules: XDR, Defender, Sentinel, Infrastructure & Application Security
+#
 📫 Contact                                                                                              
 #
 📧 Email:shanmukhamorla@gmail.com                                                                          
