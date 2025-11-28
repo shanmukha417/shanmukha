@@ -19,10 +19,7 @@
 🌐 Scanning, reporting, and penetration testing practice                                   
 💻 MalwareAnalyzer — Malicious Code Analysis Framework
 ⚡ Automating malware detection and analysis workflows
-
-
 #
-
 
 💻 Tech Stack & Tools                                                                                                                                                         
 #
@@ -45,12 +42,9 @@ Cloud & Networking: AWS | Azure | TCP/IP | VPNs | Firewalls | Network Protocols
 💼 https://www.linkedin.com/in/shanmukha-morla-199985371                                             
 🐙 https://github.com/shanmukha417/shanmukha/blob/main/README.md
 #
-🧩 Hobbies                                                                                             
- Cybersecurity Research |🤖 AI in Security | 🧳Travelling | 🎶Music                                    
- #
- #
  <img width="40" height="34" alt="image" src="https://github.com/user-attachments/assets/2432a4b0-5444-4805-bdb2-c2295388ac91" />
 Certifications
+#
 🛡️ Microsoft Certified: Security Operations Analyst (SC-200)
 🛡️ Microsoft Certified: Azure Security Engineer Associate (AZ-500)
 🎖️ Microsoft Certified: Cybersecurity Architect (SC-100)
@@ -70,6 +64,9 @@ Certifications
 🛡️ Microsoft Azure: Secure Azure using Microsoft Defender (SC-200/AZ-500 aligned)
 📚 Additional Microsoft Modules: XDR, Defender, Sentinel, Infrastructure & Application Security
 #
+🧩 Hobbies                                                                                             
+ Cybersecurity Research |🤖 AI in Security | 🧳Travelling | 🎶Music                                    
+ #
 📫 Contact                                                                                              
 #
 📧 Email:shanmukhamorla@gmail.com                                                                          
