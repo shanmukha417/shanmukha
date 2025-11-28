@@ -45,10 +45,11 @@ Cloud & Networking: AWS | Azure | TCP/IP | VPNs | Firewalls | Network Protocols
  <img width="40" height="34" alt="image" src="https://github.com/user-attachments/assets/2432a4b0-5444-4805-bdb2-c2295388ac91" />
 Certifications
 #
-🛡️ Microsoft Certified: Security Operations Analyst (SC-200)
-🛡️ Microsoft Certified: Azure Security Engineer Associate (AZ-500)
-🎖️ Microsoft Certified: Cybersecurity Architect (SC-100)
-☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+
+🛡️ Microsoft Certified: Security Operations Analyst (SC-200)                                                                                                                                                         
+🛡️ Microsoft Certified: Azure Security Engineer Associate (AZ-500)                                                                                                                                                 
+🎖️ Microsoft Certified: Cybersecurity Architect (SC-100)                                                                                                                                  
+☁️ Microsoft Certified: Azure Fundamentals (AZ-900)                                                              
 🕵️ Certified Ethical Hacker (CEH) – SynthoQuest Private Limited
 🛡️ Microsoft SC-200 Advanced Modules: Sentinel, Defender, XDR, Threat Mitigation
 🛡️ Microsoft Entra: Security, Compliance & Identity Fundamentals
