@@ -45,9 +45,9 @@ Cloud & Networking: AWS | Azure | TCP/IP | VPNs | Firewalls | Network Protocols
 #
 💼 https://www.linkedin.com/in/shanmukha-morla-199985371                                             
 🐙 https://github.com/shanmukha417/shanmukha/blob/main/README.md
-
-🧩 Hobbies                                                                                             
 #
+🧩 Hobbies                                                                                             
+
  Cybersecurity Research |🤖 AI in Security | 🧳Travelling | 🎶Music                                    
  #
 📫 Contact                                                                                              
