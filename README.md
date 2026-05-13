@@ -52,7 +52,8 @@ Certifications
 🛡️ Microsoft Certified: Azure Security Engineer Associate (AZ-500)                                                                                                                                                 
 🎖️ Microsoft Certified: Cybersecurity Architect (SC-100)                                                                                                                                  
 ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)                                                                                                                                                                                                                       
-🕵️ Certified Ethical Hacker (CEH) – SynthoQuest Private Limited                                                                                                                                                     
+🕵️ Certified Ethical Hacker (CEH) – SynthoQuest Private Limited       
+🛡️SOC Analyst - SynthoQuest Private Limited
 🛡️ Microsoft SC-200 Advanced Modules: Sentinel, Defender, XDR, Threat Mitigation                                                                                                                                   
 🛡️ Microsoft Entra: Security, Compliance & Identity Fundamentals                                                                                                                                                     
 🤖 Microsoft Security Copilot (AI-Powered Security)                                                                                                                                                                 
@@ -62,8 +63,7 @@ Certifications
 🛡️ Certified Network Security Practitioner (CNSP) – The SecOps Group                                                                                                                                         
 🎓 Certified Cybersecurity Educator Professional (CCEP)                                                                                                                                                     
 🔍 Digital Forensics Certificate                                                                                                                                                                              
-🧪 Practical Training: Digital Forensics & Cybercrime Investigation (5-Day Workshop)                                                                                                                    
-🎓 Deloitte Cybersecurity Virtual Experience – Forage                                                                                                                                                    
+🧪 Practical Training: Digital Forensics & Cybercrime Investigation (5-Day Workshop)                                                                                                                        
 🛡️ Microsoft Azure: Secure Azure using Microsoft Defender (SC-200/AZ-500 aligned)                                                                                                                           
 📚 Additional Microsoft Modules: XDR, Defender, Sentinel, Infrastructure & Application Security                                                                                                      
 #
