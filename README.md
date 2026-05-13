@@ -53,7 +53,7 @@ Certifications
 🎖️ Microsoft Certified: Cybersecurity Architect (SC-100)                                                                                                                                  
 ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)                                                                                                                                                                                                                       
 🕵️ Certified Ethical Hacker (CEH) – SynthoQuest Private Limited       
-🛡️SOC Analyst - SynthoQuest Private Limited
+🛡️SOC Analyst - SynthoQuest Private Limited                                                                                                                                                                      
 🛡️ Microsoft SC-200 Advanced Modules: Sentinel, Defender, XDR, Threat Mitigation                                                                                                                                   
 🛡️ Microsoft Entra: Security, Compliance & Identity Fundamentals                                                                                                                                                     
 🤖 Microsoft Security Copilot (AI-Powered Security)                                                                                                                                                                 
